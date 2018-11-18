@@ -22,11 +22,10 @@ this project contains some important files in specified folder
         app:tabsGravity="right"><!-- can be right, left, center, start or end -->
 ```
 
- ![CustomDirTabLayout Screenshot](screenshot.png)
+#### Result
+<img src="screenshot.png" width="300" >
 
-
-
-### License
+#### License
 Licensed under MIT
 
 farrokhpey@gmail.com
