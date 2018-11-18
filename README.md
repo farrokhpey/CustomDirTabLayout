@@ -22,7 +22,7 @@ this project contains some important files in specified folder
         app:tabsGravity="right"><!-- can be right, left, center, start or end -->
 ```
 
- ![CustomDirTabLayout Screenshot](screenshot.png | width=250)
+ ![CustomDirTabLayout Screenshot](screenshot.png)
 
 
 
